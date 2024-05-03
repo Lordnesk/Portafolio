@@ -1,0 +1,47 @@
+body,html{
+    width: 100%;
+    height: 100%;
+    background-color: black;
+}
+
+main{
+    background-color: #5fb4c5;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.bio h2{
+    color: rgb(204, 117, 3);
+}
+
+.imagenes{
+    height: 50%;
+}
+
+.tarjetas{
+    width: 33%;
+    
+}
+
+.tarjetas h3{
+    color: rgb(204, 117, 3);
+}
+
+.container{
+    width: 100%;
+}
+
+.goingTo{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    gap: 10px;
+}
+
+.goingTo h2{
+    color: rgb(204, 117, 3);
+    height: 100%;
+}
+
